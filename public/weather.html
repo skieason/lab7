@@ -146,7 +146,7 @@
     <script>
      $(document).ready(function() {
        $( "#cityfield" ).keyup(function() {
-         $.getJSON("http://ec2-54-200-209-54.us-west-2.compute.amazonaws.com:3000/getcity?q="+$("#cityfield").val(),function(data) {
+         $.getJSON("../getcity?q="+$("#cityfield").val(),function(data) {
             var everything;
             everything = "<ul>";
             $.each(data, function(i,item) {
@@ -158,7 +158,7 @@
         });
 
         $("#button2").click(function(e){
-          $.getJSON("http://ec2-54-200-209-54.us-west-2.compute.amazonaws.com:3000/getskiresorts",
+          $.getJSON("../getskiresorts",
             function(data) {
               var theResorts;
             theResorts = "<ol>";

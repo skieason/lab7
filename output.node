@@ -28,3 +28,223 @@ nohup: ignoring input
 [0mGET /getskiresorts [32m200 [0m2.042 ms - 217[0m
 [0mGET / [36m304 [0m0.681 ms - -[0m
 [0mGET /index.js [33m404 [0m7.107 ms - 1066[0m
+[0mGET / [36m304 [0m0.480 ms - -[0m
+[0mGET / [32m200 [0m4.077 ms - 7106[0m
+[0mGET /favicon.ico [33m404 [0m1.458 ms - 1066[0m
+[0mGET /getcity?q=h [32m200 [0m1.335 ms - 2[0m
+[0mGET /getcity?q=he [32m200 [0m0.626 ms - 2[0m
+[0mGET /getcity?q=heb [32m200 [0m2.224 ms - 2[0m
+[0mGET /getcity?q=heber [32m200 [0m2.286 ms - 2[0m
+[0mGET /getcity?q=heber [36m304 [0m0.597 ms - -[0m
+[0mGET /getcity?q= [32m200 [0m3.050 ms - 5080[0m
+[0mGET /getcity?q= [36m304 [0m1.887 ms - -[0m
+[0mGET /getcity?q= [36m304 [0m3.657 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [32m200 [0m2.246 ms - 217[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.788 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m2.230 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.177 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m2.661 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.673 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.465 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.638 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.764 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m2.466 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m2.688 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.549 ms - -[0m
+[0mGET / [36m304 [0m0.460 ms - -[0m
+[0mGET /getcity?q=h [36m304 [0m0.546 ms - -[0m
+[0mGET /getcity?q=he [36m304 [0m0.575 ms - -[0m
+[0mGET /getcity?q=h [36m304 [0m1.212 ms - -[0m
+[0mGET /getcity?q= [36m304 [0m2.694 ms - -[0m
+[0mGET /getcity?q=H [36m304 [0m0.672 ms - -[0m
+[0mGET /getcity?q=H [36m304 [0m0.663 ms - -[0m
+[0mGET /getcity?q=He [36m304 [0m0.640 ms - -[0m
+[0mGET /getcity?q=Heb [36m304 [0m0.667 ms - -[0m
+[0mGET /getcity?q=Heber [36m304 [0m0.920 ms - -[0m
+[0mGET /getcity?q=Heber [36m304 [0m1.996 ms - -[0m
+[0mGET /getcity?q= [36m304 [0m0.904 ms - -[0m
+[0mGET /getcity?q=A [36m304 [0m0.938 ms - -[0m
+[0mGET /getcity?q=A [36m304 [0m0.492 ms - -[0m
+[0mGET /getcity?q=Al [36m304 [0m0.641 ms - -[0m
+[0mGET /getcity?q=Alp [36m304 [0m0.635 ms - -[0m
+[0mGET /getcity?q=Alpin [36m304 [0m0.649 ms - -[0m
+[0mGET /getcity?q=Alpin [36m304 [0m0.512 ms - -[0m
+[0mGET /getcity?q=Alpine [36m304 [0m0.587 ms - -[0m
+[0mGET /getcity?q=A [36m304 [0m0.585 ms - -[0m
+[0mGET /getcity?q=A [36m304 [0m1.633 ms - -[0m
+[0mGET /getcity?q=Al [36m304 [0m0.620 ms - -[0m
+[0mGET /getcity?q=Alp [36m304 [0m0.604 ms - -[0m
+[0mGET /getcity?q=Alpin [36m304 [0m0.636 ms - -[0m
+[0mGET /getcity?q=Alpin [36m304 [0m0.618 ms - -[0m
+[0mGET /getcity?q=Alpine [36m304 [0m0.622 ms - -[0m
+[0mGET /getcity?q=Alpin [36m304 [0m1.110 ms - -[0m
+[0mGET /getcity?q=Alpi [36m304 [0m0.799 ms - -[0m
+[0mGET /getcity?q=Alp [36m304 [0m0.732 ms - -[0m
+[0mGET /getcity?q=Al [36m304 [0m0.737 ms - -[0m
+[0mGET /getcity?q=A [36m304 [0m0.766 ms - -[0m
+[0mGET /getcity?q= [36m304 [0m1.140 ms - -[0m
+[0mGET /getcity?q= [36m304 [0m1.188 ms - -[0m
+[0mGET /getcity?q= [36m304 [0m1.300 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.045 ms - -[0m
+[0mGET /test1 [32m200 [0m1.789 ms - 329[0m
+[0mGET /getcity?q=A [36m304 [0m2.013 ms - -[0m
+[0mGET /getcity?q=A [36m304 [0m1.275 ms - -[0m
+[0mGET / [32m200 [0m0.917 ms - 6988[0m
+[0mGET /getcity?q=A [32m200 [0m0.740 ms - 194[0m
+[0mGET /getcity?q=A [36m304 [0m0.590 ms - -[0m
+[0mGET /getcity?q= [32m200 [0m1.155 ms - 5080[0m
+[0mGET /getcity?q= [36m304 [0m1.188 ms - -[0m
+[0mGET /getcity?q=a [32m200 [0m0.680 ms - 2[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.881 ms - -[0m
+[0mGET /test1 [36m304 [0m0.459 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m1.939 ms - -[0m
