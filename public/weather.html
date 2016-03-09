@@ -120,6 +120,21 @@
     <textarea id="dispcity">No City</textarea>
     <p>Current Weather</p>
     <div id="weather"></div>
+    <div>
+      <ul>
+        <li><a href="/test1">Test 1</a></li>
+        <li><a href="/test2">Test 2</a></li>
+        <li><a href="/test3">Test 3</a></li>
+        <li><a href="/test4">Test 4</a></li>
+      </ul>
+    </div>
+    <div>
+      <p>
+        Which are the best ski resorts in all the land? Click on this button and my rest service will give you this years picks!
+      </p>
+      <input id="button2" type="submit" value="Get Top Resorts">
+      <div id="skiresorts"></div>
+    </div>
     <div id="authorize-div" style="display: none">
       <span>Authorize access to Google Calendar API</span>
       <!--Button for the user to click to initiate auth sequence -->
@@ -140,6 +155,25 @@
             everything += "</ul>";
             $("#txtHint").html(everything);
           })
+        });
+
+        $("#button2").click(function(e){
+          $.getJSON("http://ec2-54-200-209-54.us-west-2.compute.amazonaws.com:3000/getskiresorts",
+            function(data) {
+              var theResorts;
+            theResorts = "<ol>";
+            for (var i = 0; i < data.length; i++) {
+              theResorts += "<li> "+data[i].resort;
+            }
+            theResorts += "</ol>";
+              // var theResorts;
+              // theResorts = "<ol>";
+              // $.each(data, function(i,item) {
+              //   theResorts += "<li> "+data[i].resort;
+              // });
+              // theResorts += "</ol>";
+              $("#skiresorts").html(theResorts);
+            })
         });
 
         $("#button").click(function(e){

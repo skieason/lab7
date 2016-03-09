@@ -1,0 +1,30 @@
+nohup: ignoring input
+
+> lab7@0.0.0 start /opt/bitnami/apache2/htdocs/lab7/lab7
+> node ./bin/www
+
+[0mGET / [36m304 [0m8.257 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [36m304 [0m8.376 ms - -[0m
+[ { resort: 'Alta' },
+  { resort: 'Snowbird' },
+  { resort: 'Park City' },
+  { resort: 'Banff' },
+  { resort: 'Alieska' },
+  { resort: 'Tahoe' },
+  { resort: 'Swiesla' },
+  { resort: 'Whistler' },
+  { resort: 'Solitude' },
+  { resort: 'Powder Mountain' } ]
+[0mGET /getskiresorts [32m200 [0m2.042 ms - 217[0m
+[0mGET / [36m304 [0m0.681 ms - -[0m
+[0mGET /index.js [33m404 [0m7.107 ms - 1066[0m
